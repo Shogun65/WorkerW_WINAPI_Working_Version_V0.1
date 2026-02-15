@@ -42,7 +42,7 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Learning cpp\WinApi_learning\learning_1.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Learning cpp\WinApi_learning\WorkerW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
